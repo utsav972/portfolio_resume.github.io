@@ -311,7 +311,7 @@ nav .fas{
 
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url(images/phonebackground.png);      
+        background-image: url(images/phone-background2.png);      
     }
     .header-text h1{
         font-size: 30px;
